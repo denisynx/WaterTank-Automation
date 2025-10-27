@@ -1,0 +1,10 @@
+# Ignore SQLite DB
+*.db
+
+# Ignore temporary files
+*.bak
+*.tmp
+.DS_Store
+
+# Node-RED runtime stuff
+node_modules/
